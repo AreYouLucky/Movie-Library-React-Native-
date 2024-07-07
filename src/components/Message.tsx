@@ -1,6 +1,6 @@
 function Message(){
 
-    const name = 'Janjan'
+    const name = 'Janjans'
     return <h1>Hi {name}</h1>;
 }
 

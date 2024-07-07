@@ -1,6 +1,6 @@
-import Message from './components/Message.tsx'
+import List from "./components/Dashboard/DashboardList";
 function App(){
-  return <div><Message/></div>
+  return <div><List/></div>
 }
 
 export default App;
